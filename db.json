@@ -98,7 +98,7 @@
         
     ],
 
-    "grid-part":[
+    "gridPart":[
         {
             "id":1,
             "src":"./public/images/grid-part/image1.webp",
@@ -1140,7 +1140,7 @@
 
     ],
 
-    "grid-part2":[
+    "gridPart2":[
         {
             "id":1,
             "src":"./public/images/grid-part/image2.webp",
