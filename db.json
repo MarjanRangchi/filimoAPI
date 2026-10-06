@@ -1,0 +1,1242 @@
+{
+    "headers":[
+        {
+            "id":1,
+            "src":"./public/images/header/logo.svg",
+            "href":"#"
+        },
+        {
+            "id":2,
+            "title":"فیلم",
+            "href":"#"
+        },
+            {
+            "id":3,
+            "title":"سریال",
+            "href":"#"
+        },
+            {
+            "id":4,
+            "title":"ایرانی",
+            "href":"#"
+        },
+            {
+            "id":5,
+            "title":"خارجی",
+            "href":"#"
+        },
+            {
+            "id":6,
+            "title":"مجموعه‌ها",
+            "href":"#"
+        },
+            {
+            "id":7,
+            "title":"فیلیمومدرسه",
+            "href":"#"
+        },
+            {
+            "id":8,
+            "title":"کودک",
+            "href":"#"
+        },
+            {
+            "id":9,
+            "title":"جستجو",
+            "href":"#"
+        }
+        
+    ],
+
+    "purchase":[
+        {
+            "id":1,
+            "title":"خرید"
+        }
+       
+    ],
+    
+    "headerLoginBtn":[
+        {
+            "id":1,
+            "title":"ورود",
+            "href":"./template/login.html"
+        }
+    ],
+
+    "slider":[
+
+        {
+            "id":1,
+            "src":"./public/images/slider/image1.webp",
+            "logo":"",
+            "title":"تماشای سریال بازنده",
+            "btnTitle":"اطلاعات بیشتر"
+        },
+            {
+            "id":2,
+            "src":"./public/images/slider/image2.webp",
+            "logo":"./public/images/slider/logo1.webp",
+            "title":"برو برای نجات قلب جنگل",
+            "btnTitle":"اطلاعات بیشتر"
+        },
+            {
+            "id":3,
+            "src":"./public/images/slider/image3.webp",
+            "logo":"./public/images/slider/logo2.webp",
+            "title":"مسابقه با زمان، برای نجات",
+            "btnTitle":"اطلاعات بیشتر"
+        },
+            {
+            "id":4,
+            "src":"./public/images/slider/image4.webp",
+            "logo":"./public/images/slider/logo3.webp",
+            "title":"تلاش برای زنده ماندن",
+            "btnTitle":"اطلاعات بیشتر"
+        }
+
+        
+    ],
+
+    "grid-part":[
+        {
+            "id":1,
+            "src":"./public/images/grid-part/image1.webp",
+            "title":"بدنام - فصل ۱ قسمت ۲۳: غرور از دست رفته",
+            "time":"50 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+                   "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+  
+
+        },
+          {
+            "id":2,
+            "src":"./public/images/grid-part/image2.webp",
+            "title":"کنکل - فصل ۱ قسمت 4",
+            "time":"54 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+                   "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+        },
+          {
+            "id":3,
+            "src":"./public/images/grid-part/image3.webp",
+            "title":"شفرونی-فصل 2 قسمت 4::شب خوزستان",
+            "time":"55 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+                   "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+        },
+          {
+            "id":4,
+            "src":"./public/images/grid-part/image4.webp",
+            "title":"روشن - فصل ۱ قسمت 3",
+            "time":"48 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":5,
+            "src":"./public/images/grid-part/image5.webp",
+             "title":"کایوتی در مقابل اکمی",
+            "time":"103 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":6,
+            "src":"./public/images/grid-part/image6.webp",   "title":"رخ نیلو",
+            "time":"85 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+            "title2":"اکران آنلاین",
+                   "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+        },
+          {
+            "id":7,
+            "src":"./public/images/grid-part/image7.webp",
+            "title":"ملکه آلیشون ",
+            "time":"83 دقیق",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+            
+        },
+          {
+            "id":8,
+            "src":"./public/images/grid-part/image8.webp",
+            "title":"انتهای خیابان اوک",
+            "time":"93 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",            "title2":"اکران آنلاین"
+
+
+        },
+          {
+            "id":9,
+            "src":"./public/images/grid-part/image9.webp",
+            "title":"21 روز:فصل پرو-فصل 1 قسمت2",
+            "time":"45 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":10,
+            "src":"./public/images/grid-part/image10.webp",
+            "title":"سگ های نگهبان:جزیره دایناسورها",
+            "time":"45 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":11,
+            "src":"./public/images/grid-part/image11.webp",
+            "title":"چاله فصل1 قسمت1",
+            "time":"52 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":12,
+            "src":"./public/images/grid-part/image12.webp",
+            "title":"خلیج بیوه فصل1 قسمت1",
+            "time":"41 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":13,
+            "src":"./public/images/grid-part/image13.webp",
+            "title":"پپرونی برای دیکتاتور",
+            "time":"97 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":14,
+            "src":"./public/images/grid-part/image14.webp",
+            "title":"کایوتی در مقابل اکمی",
+            "time":"103 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        },
+          {
+            "id":15,
+            "src":"./public/images/grid-part/image15.webp",
+            "title":"کایوتی در مقابل اکمی",
+            "time":"103 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg"
+        }
+
+
+
+    ],
+
+    "advertisement":[
+
+        {
+            "id":1,
+            "src1":"./public/images/filimo_logo_new.svg",
+            "title1":"یک اشتراک تا ورود به دنیای تماشا",
+            "title2":"تماشای فیلم‌ها، سریال‌های اختصاصی و ‌ریالیتی شوهای به‌روز — بدون محدودیت.",
+            "title":"خرید اشتراک و تماشا",
+            "discription1":"پرداخت امن",
+            "discription2":"امکان دانلود",
+            "discription3":"یک حساب، ۳ دستگاه",
+            "src":"./public/images/advertisement/image.webp"
+
+        }
+
+       
+    ],
+
+    "slider1":[
+
+        {
+            "id":1,
+            "src":"./public/images/slider1/image1.webp",
+            "name":"هاوایی",
+            "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+            
+        },
+               {
+            "id":2,
+            "src":"./public/images/slider1/image2.webp",
+            "name":"لونه زنبور",
+            "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+        },
+               {
+            "id":3,
+            "src":"./public/images/slider1/image3.webp",
+            "name":"خواستگار محترم",
+            "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+        },
+               {
+            "id":4,
+            "src":"./public/images/slider1/image4.webp",
+            "name":"تورقوزآباد",
+                    "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+        },
+               {
+            "id":5,
+            "src":"./public/images/slider1/image5.webp",
+            "name":"بخارست",
+            "logo":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+                       "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+
+        },
+               {
+            "id":6,
+            "src":"./public/images/slider1/image6.webp",
+            "name":"نیوکمپ - فصل ۱ قسمت ۱",
+               "logo":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+
+
+               },
+                       "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+        },
+               {
+            "id":7,
+            "src":"./public/images/slider1/image7.webp",
+            "name":"مهمونی - فصل ۲ قسمت ۱",
+                    "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+            
+        },
+               {
+            "id":8,
+            "src":"./public/images/slider1/image8.webp",
+             "name":"عروس خوش قدم",
+                     "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+        },
+               {
+            "id":9,
+            "src":"./public/images/slider1/image9.webp",
+            "name":"آتیش بازی",
+                    "hover":{
+                "id":1,
+                "rate":"2.4/10",
+                "title":"کمدی،ماجراحویی",
+                "year":"۱۳۹۹ - ایران"
+
+            }
+
+        }
+ 
+
+        
+    ],
+
+      "slider2":[
+
+        {
+            "id":1,
+            "src":"./public/images/slider2/image1.webp",
+            "name":"می‌شناسمت",
+                  "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+        },
+               {
+            "id":2,
+            "src":"./public/images/slider2/image2.webp",
+            "name":"قتل های ایستگاه پریش",
+                 "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":3,
+            "src":"./public/images/slider2/image3.webp",
+            "name":"نیگلی",
+                       "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":4,
+            "src":"./public/images/slider2/image4.webp",
+            "name":"آلفا",
+                      "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":5,
+            "src":"./public/images/slider2/image5.webp",
+            "name":"سرزمین اوباش",
+                       "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+        
+
+
+        },
+               {
+            "id":6,
+            "src":"./public/images/slider2/image6.webp",
+            "name":"گروگان آمریکایی",
+                      "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+        
+
+        },
+               {
+            "id":7,
+            "src":"./public/images/slider2/image7.webp",
+            "name":"زیبایی پلاستیکی",
+                      "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+
+            
+        },
+               {
+            "id":8,
+            "src":"./public/images/slider2/image8.webp",
+             "name":"مه",
+                        "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":9,
+            "src":"./public/images/slider2/image9.webp",
+            "name":"انتقام: بازی بی نقص",
+                      "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"اکشن, جنایی",
+                "year":"۲۰۲۶ - آمریکا"
+
+            }
+
+        }
+ 
+
+        
+    ],
+
+    "slider3":[
+
+        
+                {
+            "id":1,
+            "src":"./public/images/image1.webp"
+           
+
+        },
+               {
+            "id":2,
+            "src":"./public/images/image2.webp"
+      
+
+
+        },
+               {
+            "id":3,
+            "src":"./public/images/image3.webp"
+     
+
+
+
+        },
+               {
+            "id":4,
+            "src":"./public/images/image4.webp"
+           
+
+
+
+        },
+               {
+            "id":5,
+            "src":"./public/images/image5.webp"
+    
+
+        }
+
+  
+
+    ],
+
+       "slider4":[
+
+        {
+            "id":1,
+            "src":"./public/images/slider3/image1.webp",
+            "name":"داستان اسباب بازی ۵",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+        },
+               {
+            "id":2,
+            "src":"./public/images/slider3/image2.webp",
+            "name":"ماجراجویی در پاریس",             "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+
+
+        },
+               {
+            "id":3,
+            "src":"./public/images/slider3/image3.webp",
+            "name":"باب اسفنجی",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":4,
+            "src":"./public/images/slider3/image4.webp",
+            "name":"زوتوپیا ۲",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":5,
+            "src":"./public/images/slider3/image5.webp",
+            "name":"سگ های نگهبان",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+        
+
+
+        },
+               {
+            "id":6,
+            "src":"./public/images/slider3/image6.webp",
+            "name":"زوتوپیا",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+        
+
+        },
+               {
+            "id":7,
+            "src":"./public/images/slider3/image7.webp",
+            "name":"مینیون ها و هیولاها",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+
+            
+        },
+               {
+            "id":8,
+            "src":"./public/images/slider3/image8.webp",
+             "name":"شانس",
+                          "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+
+        },
+               {
+            "id":9,
+            "src":"./public/images/slider3/image9.webp",
+            "name":"مهاجرت",
+                         "hover":{
+                "id":1,
+                "rate":{
+                "src":"./public/images/slider2/like2.svg",
+                "percent":"۹۴%",
+                "rating":"7.8/10"
+
+                },
+              
+                "title":"انیمیشن, ماجراجویی",
+                "year":"۲۰۲۰ - آمریکا"
+
+            }
+
+        }
+ 
+
+        
+    ],
+       "advertisement2":[
+
+        {
+            "id":1,
+            "src1":"./public/images/filimo_logo_new.svg",
+            "title1":"یک اشتراک، سرگرمی بی‌پایان",
+            "title2":"محتواهای موردعلاقه‌ات را از هرکجا و روی دستگاه‌های مختلف تماشا کن. .",
+            "title":"خرید اشتراک و تماشا",
+            "discription1":"محتواهای به‌روز و پرطرفدار",
+            "discription2":"مناسب همه سنین",
+            "discription3":"پشتیبانی ۲۴/۷"
+
+        }
+
+       
+    ],
+
+    "slider5":[
+
+        
+        {
+            "id":1,
+            "src":"./public/images/slider4/image1.webp",
+            "logo":"رایگان",
+                  "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+                     "hover":{
+                "id":1,
+                "rate":"7.5/10",
+                "title":"زخم کاری - فصل ۱ قسمت ۱",
+                "year":"درام,معمایی"
+
+            }
+
+        },
+               {
+            "id":2,
+            "src":"./public/images/slider4/image2.webp",
+            "logo":"رایگان",
+                  "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+                 "hover":{
+                "id":1,
+                "rate":"3.2/10",
+                "title":"خوب، بد، جلف: رادیواکتیو - فصل ۱ قسمت ۱",
+                "year":"کمدی,جنایی"
+
+            }
+
+
+        },
+               {
+            "id":3,
+            "src":"./public/images/slider4/image3.webp",
+           "logo":"رایگان",
+                    "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+             "hover":{
+                "id":1,
+                "rate":"5.9/10",
+                "title":"جیران - فصل ۱ قسمت ۱",
+                "year":"عاشقانه,تاریخی"
+
+            }
+
+
+        },
+               {
+            "id":4,
+            "src":"./public/images/slider4/image4.webp",
+            "logo":"رایگان",
+                    "hover":{
+                "id":1,
+                "rate":"5.9/10",
+                "title":"روزی روزگاری مریخ - فصل ۱ قسمت ۱ و ۲",
+                "year":"کمدی,خانوادگی"
+
+            }
+          
+
+
+        },
+               {
+            "id":5,
+            "src":"./public/images/slider4/image5.webp",
+            "logo":"رایگان",
+                   "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+                 "hover":{
+                "id":1,
+                "rate":"6.9/10",
+                "title":"آکتور - فصل ۱ قسمت ۱",
+                "year":"درام,خانوادگی"
+
+            }
+
+
+        },
+
+                {
+            "id":6,
+            "src":"./public/images/slider4/image6.webp",
+            "logo":"رایگان",
+                  "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+                           "hover":{
+                "id":1,
+                "rate":"7.5/10",
+                "title":"یاغی - فصل ۱ قسمت ۱",
+                "year":"عاشقانه,درام"
+
+            }
+            }
+    ],
+
+    "slider6":[
+
+                {
+            "id":1,
+            "src":"./public/images/slider5/image1.webp",
+            "logo":"اکران آنلاین",
+                  "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+                 "hover":{
+                "id":1,
+                "rate":"2.7/10",
+                "title":"ماجراجویی در جزیره جیمزباند",
+                "year":"کمدی,خانوادگی"
+
+            }
+
+        },
+               {
+            "id":2,
+            "src":"./public/images/slider5/image2.webp",
+            "logo":"اکران آنلاین",
+
+                  "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+             "hover":{
+                "id":1,
+                "title":"رخ نیلو",
+                "year":"درام,خانوادگی"
+
+            }
+
+
+        },
+               {
+            "id":3,
+            "src":"./public/images/slider5/image3.webp",
+            "logo":"اکران آنلاین",
+
+            "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+             "hover":{
+                "id":1,
+                "title":"پپرونی برای دیکتاتور",
+                "year":"تئاتر,کمدی"
+
+            }
+
+
+
+        },
+               {
+            "id":4,
+            "src":"./public/images/slider5/image4.webp",
+            "logo":"اکران آنلاین",
+                   "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+             "hover":{
+                "id":1,
+                "rate":"1.9/10",
+                "title":"دختر برقی",
+                "year":"فانتزی,کمدی"
+
+            }
+
+
+
+        },
+               {
+            "id":5,
+            "src":"./public/images/slider5/image5.webp",
+            "logo":"اکران آنلاین",
+             "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+             "hover":{
+                "id":1,
+                "rate":"2.7/10",
+                "title":"من یک مرد هستم",
+                "year":"درام"
+
+            }
+
+
+
+
+        },
+
+            {
+            "id":6,
+            "src":"./public/images/slider5/image6.webp",
+            "logo":"اکران آنلاین",
+                           "logo2":
+               {
+                "id":1,
+                 "src":"./public/images/filimo_logo_new.svg",
+                 "title":"اختصاصی"
+
+               },
+              "hover":{
+                "id":1,
+                "rate":"2.7/10",
+                "title":"کفایت مذاکرات",
+                "year":"کمدی,درام"
+
+            }
+
+
+
+
+        }
+
+
+    ],
+
+    "logo":[
+
+        {
+            "id":1,
+            "src":"./public/images/header/logo.svg"
+        }
+
+   
+    ],
+
+    "items":[
+     
+        {
+            "id":1,
+            "title":"فیلم",
+            "href":"#"
+        },
+            {
+            "id":2,
+            "title":"سریال",
+            "href":"#"
+        },
+            {
+            "id":3,
+            "title":"ایرانی",
+            "href":"#"
+        },
+            {
+            "id":4,
+            "title":"خارجی",
+            "href":"#"
+        },
+            {
+            "id":5,
+            "title":"مجموعه‌ها",
+            "href":"#"
+        },
+            {
+            "id":6,
+            "title":"فیلیمومدرسه",
+            "href":"#"
+        },
+            {
+            "id":7,
+            "title":"کودک",
+            "href":"#"
+        }
+
+    ],
+
+    "grid-part2":[
+        {
+            "id":1,
+            "src":"./public/images/grid-part/image2.webp",
+            "title":"کنکل - فصل ۱ قسمت 4",
+            "time":"54 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+                       "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+     
+
+        },
+        {
+            "id":2,
+            "src":"./public/images/grid-part/image1.webp",
+            "title":"بدنام - فصل ۱ قسمت ۲۳: غرور از دست رفته",
+            "time":"50 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+                       "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+
+        },
+
+        {
+            "id":3,
+            "src":"./public/images/grid-part/image3.webp",
+            "title":"شفرونی-فصل 2 قسمت 4::شب خوزستان",
+            "time":"55 دقیقه",
+            "image1":"./public/images/grid-part/icon1.jpg",
+            "image2":"./public/images/grid-part/icon2.jpg",
+                       "logo":{
+                "id":1,
+                "src":"./public/images/filimo_logo_new.svg",
+                "title":"اختصاصی"
+            }
+
+        }
+    ],
+
+  
+  "login": [
+    {
+    "id":1,
+      "src1": "../public/images/filimo_logo_new.svg",
+      "src2": "../public/images/filimo_logo_type_fa_new.svg"
+    }
+  ],
+
+  "filimo":[
+
+    {
+        "id":1,
+        "title":"ورود یا ثبت‌نام در فیلیمو",
+        "href":"https://www.filimo.com/",
+        "title2":"بازگشت"
+    }
+
+  ],
+
+  "form":[
+
+    {
+        "id":1,
+        "title1":"برای ورود یا ثبت‌نام، اطلاعات کاربری خود را وارد کنید:",
+        "placeholder":"موبایل خود را وارد کنید:",
+        "title2":"ادامه",
+        "title3":"یا",
+        "title4":"Continue with Google"
+
+
+    }
+  ],
+
+  "footer":[
+
+    {
+        "id":1,
+        "title1":"تماشا‌ با تلویزیون",
+        "title2":"اپلیکیشن‌ها",
+        "title3":"تماس و پشتیبانی",
+        "title4":"فروشگاه",
+        "title5":"سایر لینک‌ها",
+        "title6":"شبکه‌های اجتماعی"
+    }
+
+
+  ]
+}
+
+
+
+
