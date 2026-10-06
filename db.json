@@ -1191,8 +1191,8 @@
   "login": [
     {
     "id":1,
-      "src1": "../images/filimo_logo_new.svg",
-      "src2": "../images/filimo_logo_type_fa_new.svg"
+      "src1": "./images/filimo_logo_new.svg",
+      "src2": "./images/filimo_logo_type_fa_new.svg"
     }
   ],
 
